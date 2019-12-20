@@ -1,0 +1,48 @@
+{
+    "name": "Travelport News",
+    "description": "<p>Travelport Limited provides business services, as well as transaction processing solutions and data to companies operating in the travel industry worldwide. <\/p>\n\n<p>The company???????s Global Distribution Systems segment provides aggregation, search, and transaction processing services that allow travel suppliers and travel agencies to search, process, and book itinerary and pricing options across various travel suppliers. <\/p>\n\n<p>This segment also provides hosting solutions; and IT software subscription and business intelligence services to airlines. <\/p>\n\n<p>Its Gulliver???????s Travel Associates segment distributes accommodation, ground travel, sightseeing, and other destination services, including airline, car rental, hotel, and other travel reservation and fulfillment services to travel wholesalers, tour operators, and travel agencies, as well as directly to consumers. <\/p>\n\n<p>The company operates approximately 20 brands, including Galileo and Worldspan global distribution systems, and Gulliver???????s Travel Associates.<\/p>\n\n<p>Travelport Limited is headquartered in New York.<\/p>",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/665_logo.jpg",
+    "tags": [
+        "bookings",
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/travelport-news\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Travelport News",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/665_logo.jpg",
+            "humanURL": "http:\/\/www.travelportuniversalapi.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/travelport-news-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Website",
+            "url": "http:\/\/www.travelportuniversalapi.com\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/travelport"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/Travelport"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/Travelport"
+        }
+    ]
+}
